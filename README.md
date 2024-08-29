@@ -2,9 +2,7 @@
 - 👀 I’m interested in Marketing Analytics
 - 🌱 I’m currently learning Python, SQL & Tableau
 - 💞️ I’m looking to collaborate on solving business/marketing problems
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 panchal-shubham/panchal-shubham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
